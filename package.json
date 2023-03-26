@@ -1,0 +1,31 @@
+{
+  "name": "moonshot-captcha-app",
+  "version": "1.0.0",
+  "description": "Captcha App for Roc-8 moonshot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravDe-git/Moonshot-Captcha-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravDe-git/Moonshot-Captcha-App/issues"
+  },
+  "homepage": "https://github.com/GauravDe-git/Moonshot-Captcha-App#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "postcss": "^8.4.21",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.2.7"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
